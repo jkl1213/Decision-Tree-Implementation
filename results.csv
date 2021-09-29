@@ -1,0 +1,25 @@
+,Paths,Countries,Predictions,Actual
+0,Cost of Living > 45.125 Purchasing Power > 62.20500183105469 Traffic Commute Time <= 38.38999938964844 ,Ireland,7.1794705882352945,7.129
+1,Cost of Living > 45.125 Purchasing Power > 62.20500183105469 Traffic Commute Time <= 38.38999938964844 ,Kuwait,7.1794705882352945,6.102
+2,Cost of Living <= 45.125 Pollution <= 74.80500030517578 Traffic Commute Time <= 52.03500175476074 ,Argentina,5.693888888888889,5.975
+3,Cost of Living <= 45.125 Pollution <= 74.80500030517578 Traffic Commute Time <= 52.03500175476074 ,Turkey,5.693888888888889,5.132000000000001
+4,Cost of Living > 45.125 Purchasing Power <= 62.20500183105469 Cost of Living > 49.46999931335449 ,Italy,6.061999999999999,6.3870000000000005
+5,Cost of Living > 45.125 Purchasing Power <= 62.20500183105469 Cost of Living > 49.46999931335449 ,Portugal,6.061999999999999,5.9110000000000005
+6,Cost of Living > 45.125 Purchasing Power > 62.20500183105469 Traffic Commute Time > 38.38999938964844 ,Singapore,5.871500000000001,6.377000000000001
+7,Cost of Living > 45.125 Purchasing Power <= 62.20500183105469 Cost of Living > 49.46999931335449 ,Jordan,6.061999999999999,4.633
+8,Cost of Living > 45.125 Purchasing Power <= 62.20500183105469 Cost of Living > 49.46999931335449 ,Greece,6.061999999999999,5.515
+9,Cost of Living <= 45.125 Pollution <= 74.80500030517578 Traffic Commute Time <= 52.03500175476074 ,Azerbaijan,5.693888888888889,5.165
+10,Cost of Living <= 45.125 Pollution <= 74.80500030517578 Traffic Commute Time <= 52.03500175476074 ,Hungary,5.693888888888889,6.0
+11,Cost of Living > 45.125 Purchasing Power > 62.20500183105469 Traffic Commute Time <= 38.38999938964844 ,Australia,7.1794705882352945,7.223
+12,Cost of Living <= 45.125 Pollution > 74.80500030517578 Property Price to Income > 13.375 ,Iran,4.8732500000000005,4.672
+13,Cost of Living > 45.125 Purchasing Power <= 62.20500183105469 Cost of Living <= 49.46999931335449 ,Slovakia,6.749,6.281000000000001
+14,Cost of Living > 45.125 Purchasing Power <= 62.20500183105469 Cost of Living <= 49.46999931335449 ,Chile,6.749,6.228
+15,Cost of Living > 45.125 Purchasing Power <= 62.20500183105469 Cost of Living > 49.46999931335449 ,Taiwan,6.061999999999999,6.455
+16,Cost of Living <= 45.125 Pollution > 74.80500030517578 Property Price to Income > 13.375 ,Peru,4.8732500000000005,5.797000000000001
+17,Cost of Living > 45.125 Purchasing Power > 62.20500183105469 Traffic Commute Time <= 38.38999938964844 ,Iceland,7.1794705882352945,7.504
+18,Cost of Living > 45.125 Purchasing Power > 62.20500183105469 Traffic Commute Time <= 38.38999938964844 ,Sweden,7.1794705882352945,7.353
+19,Cost of Living <= 45.125 Pollution <= 74.80500030517578 Traffic Commute Time <= 52.03500175476074 ,Indonesia,5.693888888888889,5.2860000000000005
+20,Cost of Living > 45.125 Purchasing Power <= 62.20500183105469 Cost of Living > 49.46999931335449 ,Cyprus,6.061999999999999,6.159
+21,Cost of Living <= 45.125 Pollution > 74.80500030517578 Property Price to Income > 13.375 ,China,4.8732500000000005,5.124
+22,Cost of Living <= 45.125 Pollution > 74.80500030517578 Property Price to Income > 13.375 ,Thailand,4.8732500000000005,5.999
+23,Cost of Living <= 45.125 Pollution <= 74.80500030517578 Traffic Commute Time <= 52.03500175476074 ,Georgia,5.693888888888889,4.673
